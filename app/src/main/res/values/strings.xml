@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RoomDatabase</string>
+    <string name="read">read</string>
+    <string name="write">write</string>
+    <string name="enter_id">Enter Id</string>
+    <string name="enter_profile">Enter Profile</string>
+    <string name="enter_height">Enter Height</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="enter_lastname">Enter Lastname</string>
+    <string name="enter_firstname">Enter Firstname</string>
+</resources>
